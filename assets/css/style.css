@@ -193,6 +193,7 @@ body{
     display: flex;
     position: absolute;
     top: 92%;
+    width: 60%;
 }
 .banner-list li{
     color: #000000;
